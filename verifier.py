@@ -1,7 +1,7 @@
 import re
 import sys
 import os
-from search-strings import expected_filenames
+from strings import expected_filenames
 
 # TEST array: expected_filenames = ["mateus", "miguel", "mirian", "fileParaNaoSerEcontrado", "fileParaNaoSerEcontrado2"]
 
